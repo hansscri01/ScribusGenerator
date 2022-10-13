@@ -1,0 +1,11 @@
+I'm using Scribus 1.5.8 plus ScribusGenerator
+
+Target:
+Add 10 names from a csv table (Excel) on Scribus to a business card template to create 10 business cards.
+1st row of the table = names-xy
+Scribus text field: %VAR_Namen-xy%
+
+Problem:
+The names are not accepted. After generation, the template still shows %VAR_names-xy% in the text field.
+
+Greetings Hans
